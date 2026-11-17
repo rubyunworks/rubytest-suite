@@ -1,3 +1,16 @@
+> **This project is retired.**
+>
+> As of rubytest 0.10.0 (2026-11),
+> [rubytest](https://github.com/rubyworks/rubytest) includes the command
+> line tool and the summary, outline, progress and TAP reporters that this
+> metagem pulled in, so installing `rubytest` alone is enough. The Rake task
+> remains a separate gem, rubytest-rake.
+>
+> This repository preserves rubytest-suite, last released as 1.0.0 in 2014.
+> It is no longer maintained.
+
+---
+
 # Rubytest Suite
 
 [Homepage](http://rubyworks.github.com/rubytest) /
